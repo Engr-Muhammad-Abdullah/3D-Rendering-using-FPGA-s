@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Verilog Implementation\simulation\questa
+vcosine
+I_F^B;6_CZdb`LS<3;>3K41
+V1IBZX23?i`Vm9Fb_NZ5852
+Z1 dE:\Verilog Implementation\simulation\questa
+w1653565782
+8E:/Verilog Implementation/cosine.v
+FE:/Verilog Implementation/cosine.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+E:/Verilog Implementation} -O0
+!i10b 1
+!s100 SNQ^RlYW[mW39V]HhUWGP2
+!s85 0
+!s108 1684151162.688000
+!s107 E:/Verilog Implementation/cosine.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Verilog Implementation|E:/Verilog Implementation/cosine.v|
+!s101 -O0
+vmain
+I1B<zVW9NBfKPGS7Q5C]2l3
+Vgz1<T=^lYbe6A>@kWEI732
+R1
+w1683996195
+8E:/Verilog Implementation/main.v
+FE:/Verilog Implementation/main.v
+L0 3
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 1VFV3bBlNJ87fkM]n0dS`2
+!s85 0
+!s108 1684151162.828000
+!s107 E:/Verilog Implementation/main.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Verilog Implementation|E:/Verilog Implementation/main.v|
+!s101 -O0
+vsine
+IeXJKjFcTUl[I?>_iFOIc[2
+V>bbGkgA<j@KSLHNFed;403
+R1
+w1653565780
+8E:/Verilog Implementation/sine.v
+FE:/Verilog Implementation/sine.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 cDdJlN65=?i=LhTizEA7<1
+!s85 0
+!s108 1684151162.563000
+!s107 E:/Verilog Implementation/sine.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Verilog Implementation|E:/Verilog Implementation/sine.v|
+!s101 -O0
+vtest_main
+!i10b 1
+!s100 4JMIz9m4H_A=?g87cOOj[2
+I;;5YCCYi@2MEF_1kjQeXz0
+VKW<HzVEKezCHQeSN:[REY2
+R1
+w1654687786
+8E:/Verilog Implementation/test_main.v
+FE:/Verilog Implementation/test_main.v
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1684151163.328000
+!s107 E:/Verilog Implementation/test_main.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Verilog Implementation|E:/Verilog Implementation/test_main.v|
+!s101 -O0
+R3
+R4
